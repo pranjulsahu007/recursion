@@ -1,4 +1,4 @@
-package beginner;
+
 public class oneton
 {
     public static void main(String args[])
