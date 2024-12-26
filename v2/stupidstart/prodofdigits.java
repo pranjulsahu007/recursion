@@ -1,3 +1,4 @@
+package v2.stupidstart;
 public class prodofdigits {
     public static void main(String[] args) {
        int k = proddigit(561);

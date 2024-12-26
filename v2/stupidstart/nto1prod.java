@@ -1,3 +1,4 @@
+package v2.stupidstart;
 public class nto1prod
 {
     public static void main(String args[])

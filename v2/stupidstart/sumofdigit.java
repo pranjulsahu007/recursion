@@ -1,3 +1,4 @@
+package v2.stupidstart;
 public class sumofdigit {
  public static void main(String[] args) {
     int k = sumdigit(501);

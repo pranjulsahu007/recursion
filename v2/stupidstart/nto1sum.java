@@ -1,3 +1,4 @@
+package v2.stupidstart;
 public class nto1sum
 {
     public static void main(String args[])

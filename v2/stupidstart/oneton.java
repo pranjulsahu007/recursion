@@ -1,3 +1,4 @@
+package v2.stupidstart;
 public class oneton
 {
     public static void main(String args[])
