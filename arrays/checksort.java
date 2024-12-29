@@ -1,4 +1,4 @@
-package arrays;        
+
 public class checksort
  {
     public static void main(String[] args) {
